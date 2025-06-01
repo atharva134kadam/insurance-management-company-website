@@ -1,1 +1,1 @@
-I have created an insurance company website with 6+ languages supported. You can simply download my project from the google drive link provided.
+I have created an insurance company website with 6+ languages supported. In this website you can track all your insuarances in one dashboard, it also has an chat bot to help you to get started. It also has an section in which you can analyse the current market trends in various insuranse categories. You can simply download my project from the google drive link provided.
